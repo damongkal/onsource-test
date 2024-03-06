@@ -4,17 +4,21 @@
 
 API endpoints
 
-fetch all records
+1. fetch all records
+
 /users/
 
-fetch single record
+2. fetch single record
+
 /users/get/?id=1
 
-create new record. data should be in POST variable
+3. create new record. data should be in POST variable
+
 /users/post/
 
-update record. data should be in POST variable
+4. update record. data should be in POST variable
+
 /users/put/?id=1
 
-delete record
+5. delete record
 /users/delete/?id=1
